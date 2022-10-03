@@ -1,7 +1,10 @@
 # ddgrnkb2
 Python code for my ortho keyboard
+
 OS independent Colemak layout.
+
 It uses 2 layers for Colemak and qwerty. qwerty is needed for Cyrillic layout.
+
 Changes layout with changing OS language - sends alt+shift to OS and switches layers in one time.
 
 
