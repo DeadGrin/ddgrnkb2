@@ -1,5 +1,5 @@
 # ddgrnkb2
-Python code for my ortho keyboard
+KMK and QMK code for my ortho keyboard
 
 OS independent Colemak layout.
 
